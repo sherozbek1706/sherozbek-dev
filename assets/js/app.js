@@ -1,5 +1,3 @@
-
-
 let projectLists = document.querySelector(".project-list");
 
 const renderLists = () => {
